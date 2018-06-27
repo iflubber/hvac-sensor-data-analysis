@@ -1,4 +1,4 @@
-**Project4: **
+**Project4:**
 
 **Analyzing Machine & Sensor Data**
 
@@ -269,14 +269,10 @@ visualization.
 
 We will do the analysis & visualization in **Tableau** as follows:
 
-![](./screenshots/media/image1.tiff){width="6.263888888888889in"
-height="3.9881944444444444in"}
+![](./screenshots/media/image1.tiff)
 
-![](./screenshots/media/image2.tiff){width="6.263888888888889in"
-height="3.8583333333333334in"}
+![](./screenshots/media/image2.tiff)
 
-![](./screenshots/media/image3.tiff){width="6.263888888888889in"
-height="3.8986111111111112in"}
+![](./screenshots/media/image3.tiff)
 
-![](./screenshots/media/image4.tiff){width="6.263888888888889in"
-height="5.177083333333333in"}
+![](./screenshots/media/image4.tiff)
